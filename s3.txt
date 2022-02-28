@@ -1,0 +1,13 @@
+ create-bucket
+[--acl <value>]
+--bucket <value>
+[--create-bucket-configuration <value>]
+[--grant-full-control <value>]
+[--grant-read <value>]
+[--grant-read-acp <value>]
+[--grant-write <value>]
+[--grant-write-acp <value>]
+[--object-lock-enabled-for-bucket | --no-object-lock-enabled-for-bucket]
+[--object-ownership <value>]
+[--cli-input-json <value>]
+[--generate-cli-skeleton <value>]
